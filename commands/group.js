@@ -37,7 +37,7 @@ cmd({
     //---------------------------------------------------------------------------
 cmd({
             pattern: "sticker",
-            alias: ["ස්ටිකර්","ස්ටිකර"],
+            alias: ["s"],
             desc: "Makes sticker of replied image/video.",
             category: "group",
             react: "🔄",
@@ -83,7 +83,7 @@ cmd({
 
             image: log0,
 
-            caption: `*Support:* https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM`,
+            caption: `*Support:* https://chat.whatsapp.com/KTsC12NYXrGC7Kl2O0zsjK\nDeveloper:- wa.me/16468338933`,
 
         });
 
